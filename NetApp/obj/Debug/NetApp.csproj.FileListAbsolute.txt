@@ -1,0 +1,10 @@
+C:\Users\Vallior\source\repos\NetApp\NetApp\bin\Debug\NetApp.exe.config
+C:\Users\Vallior\source\repos\NetApp\NetApp\bin\Debug\NetApp.exe
+C:\Users\Vallior\source\repos\NetApp\NetApp\bin\Debug\NetApp.pdb
+C:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.Properties.Resources.resources
+C:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.csproj.GenerateResource.cache
+C:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.csproj.CoreCompileInputs.cache
+C:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.exe
+C:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.pdb
+C:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.Src.Views.MainForm.resources
+c:\Users\Vallior\source\repos\NetApp\NetApp\obj\Debug\NetApp.csprojAssemblyReference.cache
